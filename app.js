@@ -1,4 +1,3 @@
-const fs = require("fs");
 const yargs = require("yargs");
 const data10 = require("./data10");
 
